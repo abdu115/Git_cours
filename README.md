@@ -1,2 +1,2 @@
 # Git_cours
-fisrt cours git
+fisrt cours Git
